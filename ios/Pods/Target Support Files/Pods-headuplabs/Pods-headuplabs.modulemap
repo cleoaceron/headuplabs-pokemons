@@ -1,0 +1,6 @@
+module Pods_headuplabs {
+  umbrella header "Pods-headuplabs-umbrella.h"
+
+  export *
+  module * { export * }
+}
